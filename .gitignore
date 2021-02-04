@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.Rmd
+!*.rmd
+!.R
+
+# ...even if they are in subdirectories
+!*/
